@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with JSON BSON",
+      "body": "JSON is a lightweight data-interchange format that is easy to read and write."
+    },
+    {
+      "id": 2,
+      "title": "Understanding APIs",
+      "body": "APIs allow different software applications to communicate with each other."
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Basics",
+      "body": "JavaScript is a popular programming language used for web development."
+    },
+    {
+      "id": 4,
+      "title": "Backend Development",
+      "body": "Backend development focuses on server-side logic and databases."
+    },
+    {
+      "id": 5,
+      "title": "Frontend vs Backend",
+      "body": "Frontend handles user interfaces, while backend manages data and business logic."
+    }
+  ]
+}
