@@ -9,6 +9,8 @@ const Navbar: React.FC = () => {
     { to: "/", label: "Home" },
     { to: "/post-traditional", label: "Post-Traditional" },
     { to: "/rq-post", label: "RQ-Post" },
+    { to: "/fruits", label: "Fruits Pagination" },
+    { to: "/infinite-fruits", label: "Infinite Fruits" },
   ];
 
   return (
